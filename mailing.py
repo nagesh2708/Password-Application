@@ -1,10 +1,10 @@
 import smtplib
 
 def connection(reciever,passcode):
-    sender = 'teamingteams@gmail.com'
-    password = '123@Hasher#'
+    sender = 'your mail'
+    password = 'Your Password'
     message = '''From: Password Saver Application
-    <teamingteams@gmail.com>
+    <Yourmail>
     To: To Person <''' + reciever + '''>
     Subject : Resending Password
 
